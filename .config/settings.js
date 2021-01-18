@@ -8,8 +8,8 @@ const settings = {
   },
 
   img: {
-    src: 'src/img/'
-    dest: 'assets/img'
+    src: 'src/img/',
+    dest: 'assets/img',
   },
   clones: [
     {
