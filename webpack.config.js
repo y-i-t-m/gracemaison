@@ -8,4 +8,4 @@ const StyleLintPlugin = require('stylelint-webpack-plugin');
 
 const TypeScriptSettings = require(path.resolve(__dirname, '.config/webpack/typeScriptSettings'));
 const cssSettings = require(path.resolve(__dirname, '.config/webpack/cssSettings'));
-const Pages = require(path.resolve(__dirname, '.config/webpack/pages.js'));
+// const Pages = require(path.resolve(__dirname, '.config/webpack/pages.js'));
