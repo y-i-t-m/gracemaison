@@ -10,7 +10,6 @@ const TypeScriptSettings = require(path.resolve(__dirname, '.config/webpack/type
 const cssSettings = require(path.resolve(__dirname, '.config/webpack/cssSettings'));
 // const Pages = require(path.resolve(__dirname, '.config/webpack/pages.js'));
 
-
 module.exports = () => {
   console.log(`CURRENT MODE -> ${process.env.NODE_ENV}`);
 
